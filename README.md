@@ -13,7 +13,7 @@ A tile server for CATMAID [tile source type 4](https://catmaid.readthedocs.io/en
 
 `cp settings.py.example settings.py`
 
-- If you server data from a Google Cloud bucket, you may have to configure access credentials, using [gloud][https://cloud.google.com/sdk/docs/install#linux]
+- If you server data from a Google Cloud bucket, you may have to configure access credentials, using [gloud](https://cloud.google.com/sdk/docs/install#linux)
 
 `gcloud init`
 
