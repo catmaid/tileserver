@@ -1,0 +1,9 @@
+fastapi
+arq
+numpy
+tensorstore
+uvicorn
+fastapi
+pillow
+redis
+requests
